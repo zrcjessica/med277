@@ -11,7 +11,8 @@ In the `DELIVERABLES` folder can be found all of the Jupyter notebooks used to p
 
 `FilterQuestions.ipynb` contains code for filtering questions for biomedical content and visualizing the distribution of sincere/insincere questions in the prefiltered and filtered datasets.\
 `RandomForest.ipynb` contains code for preprocessing the training data, and training classifiers for both unfiltered and filtered (biomedical) questions.\
-`LSTM.ipynb` contains code for preprocessing the training data and constructing the RNN for training the LSTMs for unfiltered and filtered questions.
+`LSTM.ipynb` contains code for preprocessing the training data and constructing the RNN for training the LSTMs for unfiltered and filtered questions.\
+Run these notebooks by stepping through the cells. More detailed documentation can be found within the notebooks.
 
 Please demo the performance of our classifiers (trained on the filtered datasets) in `LiveDemoClassifiers.ipynb`. Step through the cells, which load pickled files with preprocessed data for each respective classifier, as well as the pretrained classifiers themselves.
 
