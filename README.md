@@ -7,6 +7,8 @@ James Sorrentino and Jessica Zhou
 
 [Final project report](https://docs.google.com/document/d/1H5nZ3QRxygRVN4XT-zGZPvzfdh82XzjH0bJnDklcCZw/edit?usp=sharing)
 
+[Final project presentation](https://docs.google.com/presentation/d/1nnD3AUv3o0FKc7B7z9bW2O10pIfAblt06K3jR8_eFbM/edit?usp=sharing)
+
 In the `DELIVERABLES` folder can be found all of the Jupyter notebooks used to preprocess the data and train Random Forest classifiers and LSTMs for classifying sincerity of Quora questions. This project is based on the respective [Kaggle competition](https://www.kaggle.com/c/quora-insincere-questions-classification).
 
 `FilterQuestions.ipynb` contains code for filtering questions for biomedical content and visualizing the distribution of sincere/insincere questions in the prefiltered and filtered datasets.\
